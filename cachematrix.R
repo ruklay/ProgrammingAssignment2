@@ -5,6 +5,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
+  setInvertedMatrix <- function(matrix) invertedMatrix <<- matrix
 }
 
 
