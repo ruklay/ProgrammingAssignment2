@@ -1,6 +1,12 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 ##
+## These 2 functions illustrate a simple idea on how to use
+## Lexical Scoping in R Programming. The first function can 
+## store the computed data in cache. So when the later function
+## needs the computed data, it can retrive from the cache without 
+## re-computing every time.
+##
 
 ## Write a short comment describing this function
 ##
